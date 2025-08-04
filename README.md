@@ -1,5 +1,5 @@
 
-# AT1TU3 Website
+# Fitness Website
 
 Welcome to the official website hosted at [https://at1tu3.webwave.dev/](https://at1tu3.webwave.dev/).
 
